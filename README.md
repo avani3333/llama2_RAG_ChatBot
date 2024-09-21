@@ -7,8 +7,9 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using the
 https://github.com/avani3333/llama2_RAG_ChatBot
 
 ## Screenshots
-![Screenshot 2024-09-21 134158](https://github.com/user-attachments/assets/41b840f2-8d5c-44be-8054-c3f7fdc63af0)
+![Screenshot 2024-09-21 134158](https://github.com/user-attachments/assets/832a830f-15f0-4a4a-b20f-442f29704473)
 
+![Screenshot 2024-09-20 180853](https://github.com/user-attachments/assets/0f7762ec-d1b7-4346-96b5-468e60e42843)
 
 ## Features
 ● Natural Language Querying: Ask questions in plain language, and the chatbot responds with precise answers.
