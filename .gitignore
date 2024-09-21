@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+model
+BAAI_bge-base-en-v1.5
+llmveve
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
